@@ -866,7 +866,7 @@ button:focus,
 }
 @media (max-width: 768px) {
   .feature .feature-content h2,
-.feature .feature-content p {
+  .feature .feature-content p {
     text-align: center;
   }
 }
@@ -1692,7 +1692,6 @@ hr {
 }
 
 .privacy .privacy-nav {
-  position: -webkit-sticky;
   position: sticky;
   top: 15px;
   background: #fafafa;
